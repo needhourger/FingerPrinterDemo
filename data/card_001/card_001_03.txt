@@ -1,0 +1,5 @@
+Gender: M
+Position: 03
+Class: A
+History: aa000003.pct aa tape506.aa001.03 4096x1536
+Scan Type: l
